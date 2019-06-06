@@ -218,7 +218,9 @@ public class Prueba {
 			new VentanaInicio();
 				
 			}
+			
 		});
+		
 		
 	}
 
